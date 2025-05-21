@@ -9,8 +9,6 @@ Welcome to the Employee Payroll System built with Spring Boot. This project demo
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
-- [How to Run](#how-to-run)
-- [Next Steps](#next-steps)
 
 ## Overview
 
